@@ -1,10 +1,3 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-
 .grid {
     height: 560px;
     width: 560px;
@@ -13,6 +6,6 @@
 }
 
 .grid div {
-    width: 70px;
     height: 70px;
+    width: 70px;
 }
